@@ -120,8 +120,6 @@ while (Serial.available())
     }  
   }
 
-
-
 if(newLineReceived)
 {
     switch(inputString[1])   
@@ -140,12 +138,7 @@ if(newLineReceived)
       inputString = "";   // clear the string
       newLineReceived = false;
 }   
-   
-
-
-
-
-  
+     
 }
 //**************************************************
 // turn left
