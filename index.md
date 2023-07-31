@@ -17,7 +17,7 @@ You should comment out all portions of your portfolio that you have not complete
   
 # Final Milestone
 
-<!--- **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+ **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -25,7 +25,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE -->
+- What do you hope to learn in the future after everything you've learned at BSE 
 
 
 
@@ -33,7 +33,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For my second milestone, I installed the app to control the arm from my phone and completed the arm. I can now control the arm using the app. In the future, I hope to add several pre-programmed buttons that are set tp press specific buttons . Now, when I am upstairs, I can turn my PC or Xbox on with the push of a button.
+For my second milestone, I installed the app to control the arm from my phone and completed the arm. I can now control the arm using the app. In the future, I hope to add several pre-programmed buttons that are set to press specific buttons. Now, when I am upstairs, I can turn my PC or Xbox on with the push of a button.
 
 # First Milestone
 
