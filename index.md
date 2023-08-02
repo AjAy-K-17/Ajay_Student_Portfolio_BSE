@@ -25,7 +25,6 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What do you hope to learn in the future after everything you've learned at BSE 
 
 
-
 # Second Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hUWw4qFSlUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -38,8 +37,9 @@ For my second milestone, I installed the app to control the arm from my phone an
 
 My first milestone is using the controller joysticks to output coordinates on the serial monitor. I did this by wiring the joysticks to the Arduino and then adding the code to print out in the serial monitor. Some difficulties that I encountered were putting the wires in the exact pins because it was a really small space, and dealing with some broken parts along the build. 
 
+
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resources to create professional schematic diagrams, though BSE recommends Tinkercad because it can be done quickly and for free in the browser. 
+
 
 # Code
  
